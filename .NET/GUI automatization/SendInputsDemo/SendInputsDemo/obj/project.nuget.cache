@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kw0TvcUhcfaAXViR0dNtwX0ykHA7JbQEOn6PXem61MO3RgN3FDX+WHnU8n3BV1ZjLaKyJZaxLPx4Sr3KLyNIRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\antal\\Google Drive\\university stuff\\szkript\\useful stuff\\SendInputsDemo\\SendInputsDemo\\SendInputsDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

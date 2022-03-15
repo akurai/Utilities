@@ -1,0 +1,3 @@
+﻿^.::
+Click Right,down
+return
